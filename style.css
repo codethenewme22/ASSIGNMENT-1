@@ -1,3 +1,4 @@
+/* !Section-1  */
 h1 {
   font-size: 50px;
 }
@@ -37,7 +38,7 @@ img {
   margin-left: 50px;
 }
 
-/* ! */
+/* !Section-2  */
 
 #my-mission {
   text-align: center;
@@ -50,8 +51,8 @@ img {
   background-color: rgb(236, 233, 229);
   border-radius: 5px;
   padding-left: 50px;
-  margin-left: 120px;
-  margin-right: 80px;
+  margin-left: 80px;
+  margin-right: 50px;
 }
 .mission-2 {
   width: 350px;
@@ -60,8 +61,8 @@ img {
   display: inline-block;
   background-color: rgb(215, 245, 250);
   border-radius: 5px;
-  padding-left: 30px;
-  margin-right: 80px;
+  padding-left: 0px;
+  margin-right: 50px;
 }
 .mission-3 {
   width: 350px;
@@ -74,12 +75,13 @@ img {
 #Missions {
   margin: auto;
 }
-/* ! */
+/* ! Section-3 */
 #section-3 {
   display: inline-flex;
   margin-top: 100px;
   margin-bottom: 200px;
   margin-left: 100px;
+  margin-right: 150px;
   background-image: url(./images/shapes/shape-1.png);
   background-size: 300px;
   background-position: left;
@@ -88,7 +90,7 @@ img {
 #img-2 {
   margin-left: 100px;
 }
-/* ! */
+/* ! Section-4 */
 #section-4 {
   display: inline-flex;
 
@@ -104,7 +106,7 @@ img {
   margin-left: 230px;
   margin-bottom: 100px;
 }
-/* ! */
+/* ! Section-5 */
 #section-5 {
   display: inline-flex;
 }
@@ -113,11 +115,28 @@ img {
   width: 400px;
 
   margin-right: 300px;
-  margin-left: 300px;
+  margin-left: 200px;
 }
-#final-part{
-  
+#section-5-body {
+  margin-right: 230px;
 }
-p{
-text-align: justify;
+
+p {
+  text-align: justify;
+}
+/* !FOOTER */
+footer {
+  text-align: center;
+  height: 150px;
+  background-color: rgb(7, 65, 42);
+}
+.white-text {
+  text-align: center;
+  color: white;
+  font-style: italic;
+}
+#footer-text {
+  color: chocolate;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: italic;
 }
