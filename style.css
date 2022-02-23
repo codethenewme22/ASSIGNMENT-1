@@ -1,0 +1,9 @@
+span {
+  color: cornflowerblue;
+}
+
+#heading-border {
+  margin-left: 50px;
+  border-left: 3px solid red;
+  padding-left: 5px;
+}
